@@ -6,7 +6,7 @@ categories: aws, ssl certificates, let's encrypt
 author: "Kylie Hutchison"
 ---
 
-#Auto-Renewing Let's Encrypt SSL Certificates in AWS
+# Auto-Renewing Let's Encrypt SSL Certificates in AWS
 
 As a white label mortgage app company, we have a lot of custom domains set up in AWS Route 53, and each one needs separate SSL cert. We generate these using [Let's Encrypt](https://letsencrypt.org/) on a server, upload them to AWS ACM, and then attach them to a load balancer. Once that is done, they are all set. That is, for three months. After that, the certs expire. Then what?
 
