@@ -2,7 +2,6 @@
 layout: post
 title: "Using LastPass CLI and AESCrypt to Encrypt Files"
 tagline: ""
-categories: aescrypt, lastpass, passwords, encryption, aes
 author: "Kaden Barlow"
 ---
 
