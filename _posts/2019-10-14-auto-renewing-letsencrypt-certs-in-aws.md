@@ -2,7 +2,6 @@
 layout: post
 title: "Auto-renewing Let's Encrypt SSL Certificates in AWS"
 tagline: ""
-categories: aws, ssl certificates, let's encrypt
 author: "Kylie Hutchison"
 ---
 
